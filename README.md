@@ -86,9 +86,7 @@ echo Backup and deletion completed successfully!
 
 
 ## OUTPUT
-![Uploading 329118577-469a4295-b9e1-44b5-9c40-ed949f8fb79e.png…]()
-
-
+![329118577-469a4295-b9e1-44b5-9c40-ed949f8fb79e](https://github.com/user-attachments/assets/93fdea9b-63c2-4c3b-b504-dbc09bc985ce)
 
 
 # RESULT:
